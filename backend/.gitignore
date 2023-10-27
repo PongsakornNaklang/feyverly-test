@@ -1,0 +1,36 @@
+# Node.js
+node_modules
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment
+.env
+
+# Mac OS
+.DS_Store
+
+# Editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# Testing
+coverage/
+
+# Dependency directory
+dist/
+
+# Debugging
+.nyc_output/
+
+# Production build
+build/
